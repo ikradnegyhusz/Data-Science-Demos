@@ -11,5 +11,5 @@ This program evaluates the time required for both algorithms.
 - The project shed light on the importance of mathematical optimization.
 
 ## How to use
-To run the program: `python3 PageRank.py <filepath>`
+To run the program: `python3 PageRank.py <filepath>`\
 To format a file for the script to interpret: `format <filepath>`
